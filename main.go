@@ -30,7 +30,7 @@ const (
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
 	//Needs to update this URL if you depoly it to cloud
-	ES_URL = "http://104.197.165.68:9200"
+	ES_URL = "http://34.68.154.219:9200"
 )
 
 func main() {
