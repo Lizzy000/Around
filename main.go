@@ -38,7 +38,7 @@ const (
 	PROJECT_ID = "around-261207"
 	BT_INSTANCE = "around-post"
 	//Needs to update this URL if you depoly it to cloud
-	ES_URL      = "http://35.239.132.15:9200"
+	ES_URL      = "http://173.255.112.118:9200"
 	BUCKET_NAME = "post-images-261207"
 )
 
